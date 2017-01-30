@@ -16,11 +16,11 @@ public class pruebgitjab {
 		int[][] Matrix = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
 		int[][] Matrix2 = { { 1, 2, 3 }, { 4, 5, 6 }, { 7, 8, 9 } };
 
-		int[][] M3;
+		int[][] M4;
 
-		M3 = Matrices(Matrix, Matrix2);
+		M4 = Matrices(Matrix, Matrix2);
 
-		System.out.println(M3[2][2]);
+		System.out.println(M4[2][2]);
 
 	}
 }
